@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/edit_text_border.xml" value="0.1895" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/ic_baseline_flag_24.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/ic_launcher_background.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/ic_splashscreenbct.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/roundcorners.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/drawable/tournament_details_listview_item.xml" value="0.189" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/activity_show_tournament_location.xml" value="0.4747252747252747" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/activity_tournament_details.xml" value="0.44166666666666665" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/croatia_news_fragment.xml" value="0.28125" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/following_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/following_single_item.xml" value="0.5" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/news_fragment.xml" value="0.265625" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/serbia_news_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/settings_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/single_tournament_item.xml" value="0.5" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/tournament_details_listview_item.xml" value="0.3255208333333333" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/tournament_players_listview_item.xml" value="0.67" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/layout/tournaments_fragment.xml" value="0.47468354430379744" />
+        <entry key="..\:/Users/manoj/Desktop/BalkanChessTournaments/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

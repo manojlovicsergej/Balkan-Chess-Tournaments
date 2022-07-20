@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="federations">
+        <item>Select</item>
+        <item>SRB</item>
+        <item>CRO</item>
+        <item>BIH</item>
+        <item>MNE</item>
+        <item>MKD</item>
+
+
+    </string-array>
+    <string-array name="federationsChoose">
+        <item>SRB</item>
+        <item>CRO</item>
+        <item>BIH</item>
+        <item>MNE</item>
+        <item>MKD</item>
+
+
+    </string-array>
+
+
+</resources>

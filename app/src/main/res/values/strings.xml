@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BalkanChessTournaments</string>
+    <string name="following">Following</string>
+    <string name="settings">Settings</string>
+    <string name="tournaments">Tournaments</string>
+    <string name="todo">TODO</string>
+    <string name="classic">Classic</string>
+    <string name="all">All</string>
+    <string name="blitz">Blitz</string>
+    <string name="rapid">Rapid</string>
+    <string name="fed">FED :</string>
+    <string name="show_all">show all</string>
+    <string name="last_changed">Last changed :</string>
+    <string name="refresh">refresh</string>
+    <string name="federation">FEDERATION :</string>
+    <string name="change_language">Change language :</string>
+    <string name="news">News</string>
+    <string name="textview">TextView</string>
+</resources>
